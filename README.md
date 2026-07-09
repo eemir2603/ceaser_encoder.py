@@ -9,6 +9,9 @@ Built as part of my cybersecurity self-study journey, to learn cryptography fund
   - Preserves uppercase/lowercase letters
   - Non-alphabetic characters (spaces, punctuation) are left unchanged
   - Takes text and shift value as user input via terminal
+  - Added Bruteforce
+  - Added Window for a better looking
+  - It looks like a tool than before.
 
 ## Coming soon
 
